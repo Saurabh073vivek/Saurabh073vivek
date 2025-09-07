@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi I'm saurabh vivek 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from India<br><br>- 🔭 I’m working as data analytics<br>- 📚 I'm currently learning data analytics<br></p>
 
 ###
 
