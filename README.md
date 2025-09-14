@@ -41,9 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain-wordmark.svg" height="40" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Sql/Sql-plain-wordmark.svg" height="40" alt="Sql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/exel/exel-plain-wordmark.svg" height="40" alt="exel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Exel/Exel-plain-wordmark.svg" height="40" alt="Exel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
