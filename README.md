@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from India<br><br>- 🔭 I’m working as data analytics<br>- 📚 I'm currently learning data analytics<br></p>
+<p align="left">I'm from India<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Full Stack Developer<br></p>
 
 ###
 
