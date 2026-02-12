@@ -51,10 +51,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"/>
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"/>
@@ -74,15 +74,18 @@
 ###
 
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saurabhvivek/0">
+  <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@saurabhvivek/0" alt="Medium post 1"/>
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saurabhvivek/1">
+  <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@saurabhvivek/1" alt="Medium post 2"/>
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saurabhvivek/2">
+  <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@saurabhvivek/2" alt="Medium post 3"/>
+</a>
+
 </div>
 
 ###
