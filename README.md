@@ -61,8 +61,9 @@
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-     height="40"
-     style="filter: invert(27%) sepia(98%) saturate(748%) hue-rotate(190deg) brightness(95%) contrast(101%);" />
+height="40"
+     alt="express logo"
+     style="filter: invert(1);" />
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"/>
